@@ -1,0 +1,7 @@
+[user]
+	name = Yiding Xu
+	email = y.xu@broadreachservices.com
+[core]
+	editor = vim
+[push]
+	default = simple
